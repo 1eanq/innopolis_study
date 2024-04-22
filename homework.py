@@ -1,0 +1,1 @@
+print("https://github.com/1eanq/unnopolis_study")
